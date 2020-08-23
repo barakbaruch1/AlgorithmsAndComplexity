@@ -1,0 +1,13 @@
+C:\Users\barak\source\repos\RecursionExercise\RecursionExercise\bin\Debug\netcoreapp3.1\RecursionExercise.exe
+C:\Users\barak\source\repos\RecursionExercise\RecursionExercise\bin\Debug\netcoreapp3.1\RecursionExercise.deps.json
+C:\Users\barak\source\repos\RecursionExercise\RecursionExercise\bin\Debug\netcoreapp3.1\RecursionExercise.runtimeconfig.json
+C:\Users\barak\source\repos\RecursionExercise\RecursionExercise\bin\Debug\netcoreapp3.1\RecursionExercise.runtimeconfig.dev.json
+C:\Users\barak\source\repos\RecursionExercise\RecursionExercise\bin\Debug\netcoreapp3.1\RecursionExercise.dll
+C:\Users\barak\source\repos\RecursionExercise\RecursionExercise\bin\Debug\netcoreapp3.1\RecursionExercise.pdb
+C:\Users\barak\source\repos\RecursionExercise\RecursionExercise\obj\Debug\netcoreapp3.1\RecursionExercise.csprojAssemblyReference.cache
+C:\Users\barak\source\repos\RecursionExercise\RecursionExercise\obj\Debug\netcoreapp3.1\RecursionExercise.AssemblyInfoInputs.cache
+C:\Users\barak\source\repos\RecursionExercise\RecursionExercise\obj\Debug\netcoreapp3.1\RecursionExercise.AssemblyInfo.cs
+C:\Users\barak\source\repos\RecursionExercise\RecursionExercise\obj\Debug\netcoreapp3.1\RecursionExercise.csproj.CoreCompileInputs.cache
+C:\Users\barak\source\repos\RecursionExercise\RecursionExercise\obj\Debug\netcoreapp3.1\RecursionExercise.dll
+C:\Users\barak\source\repos\RecursionExercise\RecursionExercise\obj\Debug\netcoreapp3.1\RecursionExercise.pdb
+C:\Users\barak\source\repos\RecursionExercise\RecursionExercise\obj\Debug\netcoreapp3.1\RecursionExercise.genruntimeconfig.cache
