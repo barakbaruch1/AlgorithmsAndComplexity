@@ -11,3 +11,16 @@ C:\Users\barak\source\repos\RecursionExercise\RecursionExercise\obj\Debug\netcor
 C:\Users\barak\source\repos\RecursionExercise\RecursionExercise\obj\Debug\netcoreapp3.1\RecursionExercise.dll
 C:\Users\barak\source\repos\RecursionExercise\RecursionExercise\obj\Debug\netcoreapp3.1\RecursionExercise.pdb
 C:\Users\barak\source\repos\RecursionExercise\RecursionExercise\obj\Debug\netcoreapp3.1\RecursionExercise.genruntimeconfig.cache
+C:\GitHub\AlgorithmsAndComplexity\RecursionExercise\RecursionExercise\bin\Debug\netcoreapp3.1\RecursionExercise.exe
+C:\GitHub\AlgorithmsAndComplexity\RecursionExercise\RecursionExercise\bin\Debug\netcoreapp3.1\RecursionExercise.deps.json
+C:\GitHub\AlgorithmsAndComplexity\RecursionExercise\RecursionExercise\bin\Debug\netcoreapp3.1\RecursionExercise.runtimeconfig.json
+C:\GitHub\AlgorithmsAndComplexity\RecursionExercise\RecursionExercise\bin\Debug\netcoreapp3.1\RecursionExercise.runtimeconfig.dev.json
+C:\GitHub\AlgorithmsAndComplexity\RecursionExercise\RecursionExercise\bin\Debug\netcoreapp3.1\RecursionExercise.dll
+C:\GitHub\AlgorithmsAndComplexity\RecursionExercise\RecursionExercise\bin\Debug\netcoreapp3.1\RecursionExercise.pdb
+C:\GitHub\AlgorithmsAndComplexity\RecursionExercise\RecursionExercise\obj\Debug\netcoreapp3.1\RecursionExercise.csprojAssemblyReference.cache
+C:\GitHub\AlgorithmsAndComplexity\RecursionExercise\RecursionExercise\obj\Debug\netcoreapp3.1\RecursionExercise.AssemblyInfoInputs.cache
+C:\GitHub\AlgorithmsAndComplexity\RecursionExercise\RecursionExercise\obj\Debug\netcoreapp3.1\RecursionExercise.AssemblyInfo.cs
+C:\GitHub\AlgorithmsAndComplexity\RecursionExercise\RecursionExercise\obj\Debug\netcoreapp3.1\RecursionExercise.csproj.CoreCompileInputs.cache
+C:\GitHub\AlgorithmsAndComplexity\RecursionExercise\RecursionExercise\obj\Debug\netcoreapp3.1\RecursionExercise.dll
+C:\GitHub\AlgorithmsAndComplexity\RecursionExercise\RecursionExercise\obj\Debug\netcoreapp3.1\RecursionExercise.pdb
+C:\GitHub\AlgorithmsAndComplexity\RecursionExercise\RecursionExercise\obj\Debug\netcoreapp3.1\RecursionExercise.genruntimeconfig.cache

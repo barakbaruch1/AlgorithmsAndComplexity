@@ -8,12 +8,25 @@ namespace RecursionExercise
     public static class Recursion
     {
 
-        public static bool IsPalindrome(string str)
-        {
+     /*   public static bool IsPalindrome(string str)
+       {
             bool result = false;
             if (str.Length <= 1) return true;
             if (str[0] == str[str.Length - 1]) result = true;
             return IsPalindrome(str.Substring(1, str.Length - 2)) && result;
+        }*/
+
+        public static bool IsPalindrome(string str)
+        {
+            return IsPalindrome(str, 0);
+        }
+
+        public static bool IsPalindrome(string str,int index)
+        {
+            bool result = false;
+            if (str.Length / 2 - index <= 0) return true;
+            if (str[index] == str[str.Length - 1 - index]) result = true;
+            return IsPalindrome(str, index + 1) && result;
         }
 
 
